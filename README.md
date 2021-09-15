@@ -1,1 +1,1 @@
-code to check parentheses in c
+This is a Repository of various Data Structures and their Applications using C.
